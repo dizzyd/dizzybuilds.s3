@@ -761,12 +761,6 @@
    "required": true
   },
   {
-   "desc": "finite-water-control",
-   "fileID": 2464167,
-   "projectID": 266439,
-   "required": true
-  },
-  {
    "desc": "waterworks",
    "fileID": 2594035,
    "projectID": 267006,
@@ -776,6 +770,12 @@
    "desc": "jurassicraft",
    "fileID": 2741623,
    "projectID": 226719,
+   "required": true
+  },
+  {
+   "desc": "infinitefluids",
+   "fileID": 2484246,
+   "projectID": 247286,
    "required": true
   }
  ],
