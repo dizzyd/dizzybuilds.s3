@@ -60,7 +60,7 @@
   },
   {
    "desc": "Immersive Engineering",
-   "fileID": 2676501,
+   "fileID": 2777603,
    "filename": "ImmersiveEngineering-0.12-88.jar",
    "projectID": 231951,
    "required": true
@@ -102,7 +102,7 @@
   },
   {
    "desc": "CodeChicken Lib 1.8.+",
-   "fileID": 2755781,
+   "fileID": 2779848,
    "filename": "CodeChickenLib-1.12.2-3.2.2.353-universal.jar",
    "projectID": 242818,
    "required": true
@@ -116,7 +116,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2771401,
+   "fileID": 2776806,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -309,7 +309,7 @@
   },
   {
    "desc": "AromaBackup",
-   "fileID": 2751388,
+   "fileID": 2776915,
    "filename": "AromaBackup-1.12.2-3.0.0.0.b116.jar",
    "projectID": 225658,
    "required": true
@@ -404,8 +404,8 @@
    "required": true
   },
   {
-   "desc": "storage-drawers",
-   "fileID": 2642386,
+   "desc": "Storage Drawers",
+   "fileID": 2777929,
    "filename": "StorageDrawers-1.12.2-5.3.8.jar",
    "projectID": 223852,
    "required": true
@@ -563,7 +563,7 @@
   {
    "clientOnly": true,
    "desc": "Smooth Font",
-   "fileID": 2736991,
+   "fileID": 2775709,
    "projectID": 285742,
    "required": true
   },
@@ -593,8 +593,7 @@
   },
   {
    "desc": "CD4017BE Library",
-   "fileID": 2722341,
-   "locked": true,
+   "fileID": 2755983,
    "projectID": 229208,
    "required": true
   },
@@ -618,7 +617,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2768791,
+   "fileID": 2783094,
    "projectID": 313866,
    "required": true
   },
@@ -702,7 +701,7 @@
   },
   {
    "desc": "Reborn Core",
-   "fileID": 2760613,
+   "fileID": 2779436,
    "projectID": 237903,
    "required": true
   },
@@ -767,15 +766,15 @@
    "required": true
   },
   {
-   "desc": "jurassicraft",
-   "fileID": 2741623,
-   "projectID": 226719,
-   "required": true
-  },
-  {
    "desc": "infinitefluids",
    "fileID": 2484246,
    "projectID": 247286,
+   "required": true
+  },
+  {
+   "desc": "refined-storage",
+   "fileID": 2745458,
+   "projectID": 243076,
    "required": true
   }
  ],
