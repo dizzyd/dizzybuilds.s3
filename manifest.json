@@ -32,7 +32,7 @@
   },
   {
    "desc": "UniDict",
-   "fileID": 2652588,
+   "fileID": 2796682,
    "filename": "UniDict-1.12.2-2.9.2.jar",
    "projectID": 244258,
    "required": true
@@ -116,7 +116,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2776806,
+   "fileID": 2788179,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -364,7 +364,7 @@
   },
   {
    "desc": "Climatic Biomes 2",
-   "fileID": 2769449,
+   "fileID": 2797590,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
@@ -581,7 +581,7 @@
   },
   {
    "desc": "Just Enough Calculation",
-   "fileID": 2736490,
+   "fileID": 2791973,
    "projectID": 242223,
    "required": true
   },
@@ -617,7 +617,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2783094,
+   "fileID": 2789590,
    "projectID": 313866,
    "required": true
   },
@@ -641,7 +641,7 @@
   },
   {
    "desc": "Shadowfacts' Forgelin",
-   "fileID": 2727070,
+   "fileID": 2785465,
    "projectID": 248453,
    "required": true
   },
@@ -707,13 +707,13 @@
   },
   {
    "desc": "Mekanism",
-   "fileID": 2755008,
+   "fileID": 2794015,
    "projectID": 268560,
    "required": true
   },
   {
    "desc": "Mekanism Generators",
-   "fileID": 2755010,
+   "fileID": 2794017,
    "projectID": 268566,
    "required": true
   },
@@ -775,6 +775,12 @@
    "desc": "refined-storage",
    "fileID": 2745458,
    "projectID": 243076,
+   "required": true
+  },
+  {
+   "desc": "simply-light",
+   "fileID": 2754916,
+   "projectID": 300331,
    "required": true
   }
  ],
