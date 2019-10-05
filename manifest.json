@@ -39,7 +39,7 @@
   },
   {
    "desc": "WanionLib",
-   "fileID": 2651482,
+   "fileID": 2800927,
    "filename": "WanionLib-1.12.2-2.2.jar",
    "projectID": 253043,
    "required": true
@@ -60,7 +60,7 @@
   },
   {
    "desc": "Immersive Engineering",
-   "fileID": 2777603,
+   "fileID": 2799143,
    "filename": "ImmersiveEngineering-0.12-88.jar",
    "projectID": 231951,
    "required": true
@@ -116,7 +116,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2788179,
+   "fileID": 2798612,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -364,7 +364,7 @@
   },
   {
    "desc": "Climatic Biomes 2",
-   "fileID": 2797590,
+   "fileID": 2798387,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
@@ -454,14 +454,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2757264,
+   "fileID": 2800419,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2757265,
+   "fileID": 2800420,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -549,8 +549,8 @@
    "required": true
   },
   {
-   "desc": "wearable-backpacks",
-   "fileID": 2576699,
+   "desc": "Wearable Backpacks",
+   "fileID": 2800372,
    "projectID": 257572,
    "required": true
   },
@@ -593,7 +593,7 @@
   },
   {
    "desc": "CD4017BE Library",
-   "fileID": 2755983,
+   "fileID": 2800402,
    "projectID": 229208,
    "required": true
   },
@@ -617,7 +617,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2789590,
+   "fileID": 2800617,
    "projectID": 313866,
    "required": true
   },
@@ -701,19 +701,19 @@
   },
   {
    "desc": "Reborn Core",
-   "fileID": 2779436,
+   "fileID": 2798089,
    "projectID": 237903,
    "required": true
   },
   {
    "desc": "Mekanism",
-   "fileID": 2794015,
+   "fileID": 2798295,
    "projectID": 268560,
    "required": true
   },
   {
    "desc": "Mekanism Generators",
-   "fileID": 2794017,
+   "fileID": 2798297,
    "projectID": 268566,
    "required": true
   },
@@ -781,6 +781,24 @@
    "desc": "simply-light",
    "fileID": 2754916,
    "projectID": 300331,
+   "required": true
+  },
+  {
+   "desc": "integrated-dynamics",
+   "fileID": 2779016,
+   "projectID": 236307,
+   "required": true
+  },
+  {
+   "desc": "cyclops-core",
+   "fileID": 2753297,
+   "projectID": 232758,
+   "required": true
+  },
+  {
+   "desc": "common-capabilities",
+   "fileID": 2739226,
+   "projectID": 247007,
    "required": true
   }
  ],
