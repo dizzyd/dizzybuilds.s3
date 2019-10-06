@@ -800,6 +800,30 @@
    "fileID": 2739226,
    "projectID": 247007,
    "required": true
+  },
+  {
+   "desc": "integrated-terminals",
+   "fileID": 2791343,
+   "projectID": 295910,
+   "required": true
+  },
+  {
+   "desc": "integrated-crafting",
+   "fileID": 2732760,
+   "projectID": 287357,
+   "required": true
+  },
+  {
+   "desc": "integrated-tunnels",
+   "fileID": 2732756,
+   "projectID": 251389,
+   "required": true
+  },
+  {
+   "desc": "flopper",
+   "fileID": 2689287,
+   "projectID": 290404,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
