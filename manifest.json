@@ -12,7 +12,7 @@
   },
   {
    "desc": "Forestry",
-   "fileID": 2755279,
+   "fileID": 2806589,
    "filename": "forestry_1.12.2-5.8.2.382.jar",
    "projectID": 59751,
    "required": true
@@ -26,7 +26,7 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2765112,
+   "fileID": 2803400,
    "projectID": 238222,
    "required": true
   },
@@ -39,7 +39,7 @@
   },
   {
    "desc": "WanionLib",
-   "fileID": 2800927,
+   "fileID": 2807433,
    "filename": "WanionLib-1.12.2-2.2.jar",
    "projectID": 253043,
    "required": true
@@ -130,7 +130,7 @@
   },
   {
    "desc": "Tinkers Construct",
-   "fileID": 2731543,
+   "fileID": 2809406,
    "projectID": 74072,
    "required": true
   },
@@ -184,7 +184,7 @@
   },
   {
    "desc": "FoamFix for Minecraft",
-   "fileID": 2695388,
+   "fileID": 2809906,
    "filename": "foamfix-0.10.3-1.12.2.jar",
    "projectID": 278494,
    "required": true
@@ -211,7 +211,7 @@
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2758684,
+   "fileID": 2803161,
    "filename": "Bookshelf-1.12.2-2.3.574.jar",
    "projectID": 228525,
    "required": true
@@ -364,7 +364,7 @@
   },
   {
    "desc": "Climatic Biomes 2",
-   "fileID": 2798387,
+   "fileID": 2803785,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
@@ -378,7 +378,7 @@
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2764216,
+   "fileID": 2804233,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
@@ -454,14 +454,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2800419,
+   "fileID": 2803652,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2800420,
+   "fileID": 2803653,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -517,15 +517,15 @@
    "required": true
   },
   {
-   "desc": "chisel",
-   "fileID": 2619468,
+   "desc": "Chisel",
+   "fileID": 2809394,
    "filename": "Chisel-MC1.12.2-0.2.1.35.jar",
    "projectID": 235279,
    "required": true
   },
   {
-   "desc": "ctm",
-   "fileID": 2642375,
+   "desc": "ConnectedTexturesMod",
+   "fileID": 2809915,
    "filename": "CTM-MC1.12.2-0.3.3.22.jar",
    "projectID": 267602,
    "required": true
@@ -538,7 +538,7 @@
   },
   {
    "desc": "Better Diving",
-   "fileID": 2755645,
+   "fileID": 2808462,
    "projectID": 310303,
    "required": true
   },
@@ -617,7 +617,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2800617,
+   "fileID": 2807602,
    "projectID": 313866,
    "required": true
   },
@@ -635,7 +635,7 @@
   },
   {
    "desc": "Immersive Posts",
-   "fileID": 2757197,
+   "fileID": 2811389,
    "projectID": 314645,
    "required": true
   },
@@ -790,8 +790,8 @@
    "required": true
   },
   {
-   "desc": "cyclops-core",
-   "fileID": 2753297,
+   "desc": "Cyclops Core",
+   "fileID": 2811241,
    "projectID": 232758,
    "required": true
   },
@@ -802,8 +802,8 @@
    "required": true
   },
   {
-   "desc": "integrated-terminals",
-   "fileID": 2791343,
+   "desc": "Integrated Terminals",
+   "fileID": 2811237,
    "projectID": 295910,
    "required": true
   },
@@ -824,6 +824,12 @@
    "fileID": 2689287,
    "projectID": 290404,
    "required": true
+  },
+  {
+   "desc": "cleanview",
+   "fileID": 2726661,
+   "projectID": 226889,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
@@ -832,7 +838,7 @@
   "javaArgs": "-Xmx6G -XX:+UseG1GC",
   "modLoaders": [
    {
-    "id": "forge-14.23.5.2831",
+    "id": "forge-14.23.5.2847",
     "primary": true
    }
   ],
