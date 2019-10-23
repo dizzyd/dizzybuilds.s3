@@ -245,13 +245,6 @@
    "required": true
   },
   {
-   "desc": "GraveStone Mod",
-   "fileID": 2744766,
-   "filename": "gravestone-1.10.2.jar",
-   "projectID": 238551,
-   "required": true
-  },
-  {
    "desc": "OpenComputers",
    "fileID": 2670112,
    "filename": "OpenComputers-MC1.12.2-1.7.3.146.jar",
