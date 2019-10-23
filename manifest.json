@@ -204,7 +204,7 @@
   },
   {
    "desc": "Dark Utilities",
-   "fileID": 2740409,
+   "fileID": 2813586,
    "filename": "DarkUtils-1.12.2-1.8.223.jar",
    "projectID": 242195,
    "required": true
@@ -454,14 +454,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2803652,
+   "fileID": 2813133,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2803653,
+   "fileID": 2813132,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -518,7 +518,7 @@
   },
   {
    "desc": "Chisel",
-   "fileID": 2809394,
+   "fileID": 2813538,
    "filename": "Chisel-MC1.12.2-0.2.1.35.jar",
    "projectID": 235279,
    "required": true
@@ -538,7 +538,7 @@
   },
   {
    "desc": "Better Diving",
-   "fileID": 2808462,
+   "fileID": 2813249,
    "projectID": 310303,
    "required": true
   },
@@ -617,7 +617,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2807602,
+   "fileID": 2812347,
    "projectID": 313866,
    "required": true
   },
@@ -829,6 +829,12 @@
    "desc": "cleanview",
    "fileID": 2726661,
    "projectID": 226889,
+   "required": true
+  },
+  {
+   "desc": "corail-tombstone",
+   "fileID": 2810743,
+   "projectID": 243707,
    "required": true
   }
  ],
