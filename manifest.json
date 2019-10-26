@@ -447,14 +447,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2813133,
+   "fileID": 2816382,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2813132,
+   "fileID": 2815542,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -531,7 +531,7 @@
   },
   {
    "desc": "Better Diving",
-   "fileID": 2813249,
+   "fileID": 2816383,
    "projectID": 310303,
    "required": true
   },
@@ -610,7 +610,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2812347,
+   "fileID": 2816253,
    "projectID": 313866,
    "required": true
   },
@@ -694,7 +694,7 @@
   },
   {
    "desc": "Reborn Core",
-   "fileID": 2798089,
+   "fileID": 2816362,
    "projectID": 237903,
    "required": true
   },
@@ -825,9 +825,27 @@
    "required": true
   },
   {
-   "desc": "corail-tombstone",
-   "fileID": 2810743,
+   "desc": "Corail Tombstone",
+   "fileID": 2815997,
    "projectID": 243707,
+   "required": true
+  },
+  {
+   "desc": "charset-transport-carts-and-rails",
+   "fileID": 2816635,
+   "projectID": 284581,
+   "required": true
+  },
+  {
+   "desc": "charset-lib",
+   "fileID": 2816636,
+   "projectID": 284523,
+   "required": true
+  },
+  {
+   "desc": "tool-belt",
+   "fileID": 2811669,
+   "projectID": 260262,
    "required": true
   }
  ],
