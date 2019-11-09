@@ -5,14 +5,14 @@
  "files": [
   {
    "desc": "Dynamic Trees",
-   "fileID": 2702424,
+   "fileID": 2822231,
    "filename": "DynamicTrees-1.12.2-0.9.4.jar",
    "projectID": 252818,
    "required": true
   },
   {
    "desc": "Forestry",
-   "fileID": 2806589,
+   "fileID": 2824425,
    "filename": "forestry_1.12.2-5.8.2.382.jar",
    "projectID": 59751,
    "required": true
@@ -26,7 +26,7 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2803400,
+   "fileID": 2822849,
    "projectID": 238222,
    "required": true
   },
@@ -266,8 +266,8 @@
    "required": true
   },
   {
-   "desc": "natures-compass",
-   "fileID": 2513221,
+   "desc": "Nature's Compass",
+   "fileID": 2823256,
    "filename": "NaturesCompass-1.12.2-1.5.1.jar",
    "projectID": 252848,
    "required": true
@@ -295,7 +295,7 @@
   },
   {
    "desc": "Antique Atlas",
-   "fileID": 2706321,
+   "fileID": 2823030,
    "filename": "antiqueatlas-1.12.2-4.5.0.jar",
    "projectID": 227795,
    "required": true
@@ -447,14 +447,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2816382,
+   "fileID": 2822176,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2815542,
+   "fileID": 2822413,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -468,7 +468,7 @@
   },
   {
    "desc": "Building Gadgets",
-   "fileID": 2771618,
+   "fileID": 2823582,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
    "required": true
@@ -568,7 +568,7 @@
   },
   {
    "desc": "LagGoggles",
-   "fileID": 2757184,
+   "fileID": 2821476,
    "projectID": 283525,
    "required": true
   },
@@ -586,7 +586,7 @@
   },
   {
    "desc": "CD4017BE Library",
-   "fileID": 2800402,
+   "fileID": 2820611,
    "projectID": 229208,
    "required": true
   },
@@ -610,7 +610,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2816253,
+   "fileID": 2824159,
    "projectID": 313866,
    "required": true
   },
@@ -735,8 +735,8 @@
    "required": true
   },
   {
-   "desc": "carry-on",
-   "fileID": 2730778,
+   "desc": "Carry On",
+   "fileID": 2818975,
    "projectID": 274259,
    "required": true
   },
@@ -826,7 +826,7 @@
   },
   {
    "desc": "Corail Tombstone",
-   "fileID": 2815997,
+   "fileID": 2818908,
    "projectID": 243707,
    "required": true
   },

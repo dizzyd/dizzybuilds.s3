@@ -88,6 +88,7 @@ climaticbiomesjbg:marsh
 climaticbiomesjbg:temperate_river
 climaticbiomesjbg:subtropical_river
 climaticbiomesjbg:tropical_river
+integrateddynamics:biome_meneglin
 nuclearcraft:nuclear_wasteland
 redwoods:redwood_forest
 redwoods:lush_redwood_forest
