@@ -246,7 +246,7 @@
   },
   {
    "desc": "OpenComputers",
-   "fileID": 2670112,
+   "fileID": 2828357,
    "filename": "OpenComputers-MC1.12.2-1.7.3.146.jar",
    "projectID": 223008,
    "required": true
@@ -447,14 +447,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2822176,
+   "fileID": 2829983,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2822413,
+   "fileID": 2830127,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -531,7 +531,7 @@
   },
   {
    "desc": "Better Diving",
-   "fileID": 2816883,
+   "fileID": 2829235,
    "projectID": 310303,
    "required": true
   },
@@ -610,7 +610,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2824159,
+   "fileID": 2828805,
    "projectID": 313866,
    "required": true
   },
@@ -658,7 +658,7 @@
   },
   {
    "desc": "Colytra",
-   "fileID": 2754900,
+   "fileID": 2828877,
    "projectID": 280200,
    "required": true
   },
