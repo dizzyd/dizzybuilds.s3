@@ -184,7 +184,7 @@
   },
   {
    "desc": "FoamFix for Minecraft",
-   "fileID": 2809906,
+   "fileID": 2831558,
    "filename": "foamfix-0.10.3-1.12.2.jar",
    "projectID": 278494,
    "required": true
@@ -454,7 +454,7 @@
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2830127,
+   "fileID": 2831308,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -777,26 +777,26 @@
    "required": true
   },
   {
-   "desc": "integrated-dynamics",
-   "fileID": 2779016,
+   "desc": "Integrated Dynamics",
+   "fileID": 2831261,
    "projectID": 236307,
    "required": true
   },
   {
    "desc": "Cyclops Core",
-   "fileID": 2811241,
+   "fileID": 2831241,
    "projectID": 232758,
    "required": true
   },
   {
-   "desc": "common-capabilities",
-   "fileID": 2739226,
+   "desc": "Common Capabilities",
+   "fileID": 2831253,
    "projectID": 247007,
    "required": true
   },
   {
    "desc": "Integrated Terminals",
-   "fileID": 2811237,
+   "fileID": 2831257,
    "projectID": 295910,
    "required": true
   },
