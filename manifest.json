@@ -511,7 +511,7 @@
   },
   {
    "desc": "ConnectedTexturesMod",
-   "fileID": 2809915,
+   "fileID": 2832564,
    "filename": "CTM-MC1.12.2-0.3.3.22.jar",
    "projectID": 267602,
    "required": true
@@ -603,7 +603,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2828805,
+   "fileID": 2831943,
    "projectID": 313866,
    "required": true
   },
