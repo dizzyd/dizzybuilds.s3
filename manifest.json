@@ -840,6 +840,12 @@
    "fileID": 2811669,
    "projectID": 260262,
    "required": true
+  },
+  {
+   "desc": "angry-pixel-the-betweenlands-mod",
+   "fileID": 2835615,
+   "projectID": 243363,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
