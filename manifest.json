@@ -109,7 +109,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2798612,
+   "fileID": 2838824,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -204,7 +204,7 @@
   },
   {
    "desc": "Bookshelf",
-   "fileID": 2803161,
+   "fileID": 2836960,
    "filename": "Bookshelf-1.12.2-2.3.574.jar",
    "projectID": 228525,
    "required": true
@@ -260,14 +260,14 @@
   },
   {
    "desc": "Nature's Compass",
-   "fileID": 2823256,
+   "fileID": 2835692,
    "filename": "NaturesCompass-1.12.2-1.5.1.jar",
    "projectID": 252848,
    "required": true
   },
   {
    "desc": "Rustic",
-   "fileID": 2746408,
+   "fileID": 2841018,
    "filename": "rustic-1.0.15.jar",
    "projectID": 256141,
    "required": true
@@ -364,7 +364,7 @@
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2804233,
+   "fileID": 2838240,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
@@ -518,13 +518,13 @@
   },
   {
    "desc": "Industrial Craft",
-   "fileID": 2766172,
+   "fileID": 2835644,
    "projectID": 242638,
    "required": true
   },
   {
    "desc": "Better Diving",
-   "fileID": 2831931,
+   "fileID": 2834907,
    "projectID": 310303,
    "required": true
   },
@@ -579,7 +579,7 @@
   },
   {
    "desc": "CD4017BE Library",
-   "fileID": 2820611,
+   "fileID": 2838566,
    "projectID": 229208,
    "required": true
   },
@@ -603,7 +603,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2831943,
+   "fileID": 2838420,
    "projectID": 313866,
    "required": true
   },
@@ -693,19 +693,19 @@
   },
   {
    "desc": "Mekanism",
-   "fileID": 2798295,
+   "fileID": 2835175,
    "projectID": 268560,
    "required": true
   },
   {
    "desc": "Mekanism Generators",
-   "fileID": 2798297,
+   "fileID": 2835177,
    "projectID": 268566,
    "required": true
   },
   {
    "desc": "CraftTweaker",
-   "fileID": 2724129,
+   "fileID": 2838090,
    "projectID": 239197,
    "required": true
   },
