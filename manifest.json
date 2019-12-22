@@ -176,8 +176,8 @@
    "required": true
   },
   {
-   "desc": "FoamFix for Minecraft",
-   "fileID": 2831558,
+   "desc": "FoamFix​",
+   "fileID": 2845668,
    "filename": "foamfix-0.10.3-1.12.2.jar",
    "projectID": 278494,
    "required": true
@@ -260,7 +260,7 @@
   },
   {
    "desc": "Nature's Compass",
-   "fileID": 2835692,
+   "fileID": 2846584,
    "filename": "NaturesCompass-1.12.2-1.5.1.jar",
    "projectID": 252848,
    "required": true
@@ -350,7 +350,7 @@
   },
   {
    "desc": "Climatic Biomes 2",
-   "fileID": 2803785,
+   "fileID": 2845131,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
@@ -440,14 +440,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2829983,
+   "fileID": 2844843,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2842810,
+   "fileID": 2844842,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -484,7 +484,7 @@
   {
    "clientOnly": true,
    "desc": "CoroUtil",
-   "fileID": 2733489,
+   "fileID": 2845827,
    "projectID": 237749,
    "required": true
   },
@@ -567,7 +567,7 @@
   },
   {
    "desc": "Just Enough Calculation",
-   "fileID": 2791973,
+   "fileID": 2845582,
    "projectID": 242223,
    "required": true
   },
@@ -603,7 +603,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2843111,
+   "fileID": 2845761,
    "projectID": 313866,
    "required": true
   },
@@ -675,7 +675,7 @@
   },
   {
    "desc": "Tinkers' Complement",
-   "fileID": 2727094,
+   "fileID": 2843439,
    "projectID": 272671,
    "required": true
   },
@@ -833,6 +833,12 @@
    "desc": "bloodmoon",
    "fileID": 2537917,
    "projectID": 226321,
+   "required": true
+  },
+  {
+   "desc": "xnet",
+   "fileID": 2745852,
+   "projectID": 260912,
    "required": true
   }
  ],
