@@ -26,7 +26,7 @@
   },
   {
    "desc": "Just Enough Items (JEI)",
-   "fileID": 2822849,
+   "fileID": 2847112,
    "projectID": 238222,
    "required": true
   },
@@ -109,7 +109,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2838824,
+   "fileID": 2847260,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -405,7 +405,7 @@
   },
   {
    "desc": "Inventory Tweaks",
-   "fileID": 2670367,
+   "fileID": 2848933,
    "filename": "InventoryTweaks-1.64-dev.145.jar",
    "projectID": 223094,
    "required": true
@@ -440,14 +440,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2844843,
+   "fileID": 2849806,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2844842,
+   "fileID": 2849809,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -567,7 +567,7 @@
   },
   {
    "desc": "Just Enough Calculation",
-   "fileID": 2845582,
+   "fileID": 2849567,
    "projectID": 242223,
    "required": true
   },
@@ -819,7 +819,7 @@
   },
   {
    "desc": "Corail Tombstone",
-   "fileID": 2818908,
+   "fileID": 2849362,
    "projectID": 243707,
    "required": true
   },
