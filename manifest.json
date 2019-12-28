@@ -840,6 +840,12 @@
    "fileID": 2745852,
    "projectID": 260912,
    "required": true
+  },
+  {
+   "desc": "moarsigns",
+   "fileID": 2649212,
+   "projectID": 79243,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
