@@ -517,7 +517,7 @@
    "required": true
   },
   {
-   "desc": "Industrial Craft",
+   "desc": "industrial-craft",
    "fileID": 2835644,
    "projectID": 242638,
    "required": true
@@ -845,6 +845,60 @@
    "desc": "moarsigns",
    "fileID": 2649212,
    "projectID": 79243,
+   "required": true
+  },
+  {
+   "desc": "gravitation-suite",
+   "fileID": 2700845,
+   "projectID": 253590,
+   "required": true
+  },
+  {
+   "desc": "recall-mirror",
+   "fileID": 2886489,
+   "projectID": 363516,
+   "required": true
+  },
+  {
+   "desc": "dynamic-darkness",
+   "fileID": 2884541,
+   "projectID": 363102,
+   "required": true
+  },
+  {
+   "desc": "macaws-roofs",
+   "fileID": 2879573,
+   "projectID": 352039,
+   "required": true
+  },
+  {
+   "desc": "macaws-bridges",
+   "fileID": 2853493,
+   "projectID": 351725,
+   "required": true
+  },
+  {
+   "desc": "macaws-windows",
+   "fileID": 2884962,
+   "projectID": 363569,
+   "required": true
+  },
+  {
+   "desc": "serene-seasons",
+   "fileID": 2799213,
+   "projectID": 291874,
+   "required": true
+  },
+  {
+   "desc": "illuminations",
+   "fileID": 2594423,
+   "projectID": 292908,
+   "required": true
+  },
+  {
+   "desc": "industrial-renewal",
+   "fileID": 2876140,
+   "projectID": 299849,
    "required": true
   }
  ],
