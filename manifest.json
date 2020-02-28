@@ -5,14 +5,14 @@
  "files": [
   {
    "desc": "Dynamic Trees",
-   "fileID": 2822231,
+   "fileID": 2870267,
    "filename": "DynamicTrees-1.12.2-0.9.4.jar",
    "projectID": 252818,
    "required": true
   },
   {
    "desc": "Forestry",
-   "fileID": 2824425,
+   "fileID": 2889348,
    "filename": "forestry_1.12.2-5.8.2.382.jar",
    "projectID": 59751,
    "required": true
@@ -32,7 +32,7 @@
   },
   {
    "desc": "UniDict",
-   "fileID": 2796682,
+   "fileID": 2880863,
    "filename": "UniDict-1.12.2-2.9.2.jar",
    "projectID": 244258,
    "required": true
@@ -109,7 +109,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2847260,
+   "fileID": 2853541,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -123,7 +123,7 @@
   },
   {
    "desc": "Tinkers Construct",
-   "fileID": 2809406,
+   "fileID": 2877575,
    "projectID": 74072,
    "required": true
   },
@@ -149,7 +149,7 @@
   },
   {
    "desc": "Quark",
-   "fileID": 2759240,
+   "fileID": 2889332,
    "filename": "Quark-r1.5-145.jar",
    "projectID": 243121,
    "required": true
@@ -163,7 +163,7 @@
   },
   {
    "desc": "Controlling",
-   "fileID": 2731319,
+   "fileID": 2857064,
    "filename": "Controlling-3.0.6.jar",
    "projectID": 250398,
    "required": true
@@ -190,7 +190,7 @@
   },
   {
    "desc": "Cooking for Blockheads",
-   "fileID": 2733516,
+   "fileID": 2862651,
    "filename": "CookingForBlockheads_1.12.2-6.4.69.jar",
    "projectID": 231484,
    "required": true
@@ -218,7 +218,7 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 2757379,
+   "fileID": 2872629,
    "filename": "astralsorcery-1.12.2-1.10.10.jar",
    "projectID": 241721,
    "required": true
@@ -260,7 +260,7 @@
   },
   {
    "desc": "Nature's Compass",
-   "fileID": 2846584,
+   "fileID": 2858168,
    "filename": "NaturesCompass-1.12.2-1.5.1.jar",
    "projectID": 252848,
    "required": true
@@ -295,14 +295,14 @@
   },
   {
    "desc": "AromaBackup",
-   "fileID": 2776915,
+   "fileID": 2870161,
    "filename": "AromaBackup-1.12.2-3.0.0.0.b116.jar",
    "projectID": 225658,
    "required": true
   },
   {
    "desc": "Aroma1997Core",
-   "fileID": 2690354,
+   "fileID": 2855100,
    "filename": "Aroma1997Core-1.12.2-2.0.0.0.b162.jar",
    "projectID": 223735,
    "required": true
@@ -349,8 +349,8 @@
    "required": true
   },
   {
-   "desc": "Climatic Biomes 2",
-   "fileID": 2845131,
+   "desc": "Climatic Biomes",
+   "fileID": 2886206,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
@@ -364,7 +364,7 @@
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2838240,
+   "fileID": 2856114,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
@@ -391,7 +391,7 @@
   },
   {
    "desc": "Storage Drawers",
-   "fileID": 2777929,
+   "fileID": 2887858,
    "filename": "StorageDrawers-1.12.2-5.3.8.jar",
    "projectID": 223852,
    "required": true
@@ -440,14 +440,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2849806,
+   "fileID": 2860436,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2849809,
+   "fileID": 2860437,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -461,14 +461,14 @@
   },
   {
    "desc": "Building Gadgets",
-   "fileID": 2823582,
+   "fileID": 2887403,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
    "required": true
   },
   {
    "desc": "Comforts",
-   "fileID": 2705810,
+   "fileID": 2880613,
    "filename": "comforts-1.12.2-1.4.1.1.jar",
    "projectID": 276951,
    "required": true
@@ -484,7 +484,7 @@
   {
    "clientOnly": true,
    "desc": "CoroUtil",
-   "fileID": 2845827,
+   "fileID": 2854078,
    "projectID": 237749,
    "required": true
   },
@@ -555,7 +555,7 @@
   },
   {
    "desc": "RFTools",
-   "fileID": 2745848,
+   "fileID": 2861573,
    "projectID": 224641,
    "required": true
   },
@@ -579,7 +579,7 @@
   },
   {
    "desc": "CD4017BE Library",
-   "fileID": 2838566,
+   "fileID": 2885783,
    "projectID": 229208,
    "required": true
   },
@@ -603,7 +603,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2845761,
+   "fileID": 2888100,
    "projectID": 313866,
    "required": true
   },
@@ -621,7 +621,7 @@
   },
   {
    "desc": "Immersive Posts",
-   "fileID": 2811389,
+   "fileID": 2861716,
    "projectID": 314645,
    "required": true
   },
@@ -687,7 +687,7 @@
   },
   {
    "desc": "Reborn Core",
-   "fileID": 2816362,
+   "fileID": 2871609,
    "projectID": 237903,
    "required": true
   },
@@ -710,8 +710,8 @@
    "required": true
   },
   {
-   "desc": "modtweaker",
-   "fileID": 2693544,
+   "desc": "ModTweaker",
+   "fileID": 2881277,
    "projectID": 220954,
    "required": true
   },
@@ -746,8 +746,8 @@
    "required": true
   },
   {
-   "desc": "waterworks",
-   "fileID": 2594035,
+   "desc": "Waterworks",
+   "fileID": 2860391,
    "projectID": 267006,
    "required": true
   },
@@ -771,13 +771,13 @@
   },
   {
    "desc": "Integrated Dynamics",
-   "fileID": 2831261,
+   "fileID": 2880446,
    "projectID": 236307,
    "required": true
   },
   {
    "desc": "Cyclops Core",
-   "fileID": 2831241,
+   "fileID": 2880441,
    "projectID": 232758,
    "required": true
   },
@@ -819,7 +819,7 @@
   },
   {
    "desc": "Corail Tombstone",
-   "fileID": 2849362,
+   "fileID": 2885466,
    "projectID": 243707,
    "required": true
   },
