@@ -900,6 +900,12 @@
    "fileID": 2876140,
    "projectID": 299849,
    "required": true
+  },
+  {
+   "desc": "slideem-all",
+   "fileID": 2778779,
+   "projectID": 314669,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
