@@ -1,6 +1,6 @@
 {
  "extfiles": {
-  "Nutrition": "https://github.com/WesCook/Nutrition/releases/download/v4.0.0/Nutrition-1.12.2-4.0.0.jar"
+  "Nutrition": "https://github.com/WesCook/Nutrition/releases/download/v4.6.1/Nutrition-1.12.2-4.6.1.jar"
  },
  "files": [
   {
@@ -12,7 +12,7 @@
   },
   {
    "desc": "Forestry",
-   "fileID": 2889348,
+   "fileID": 2893935,
    "filename": "forestry_1.12.2-5.8.2.382.jar",
    "projectID": 59751,
    "required": true
@@ -260,7 +260,7 @@
   },
   {
    "desc": "Nature's Compass",
-   "fileID": 2858168,
+   "fileID": 2893527,
    "filename": "NaturesCompass-1.12.2-1.5.1.jar",
    "projectID": 252848,
    "required": true
@@ -350,7 +350,7 @@
   },
   {
    "desc": "Climatic Biomes",
-   "fileID": 2886206,
+   "fileID": 2890342,
    "filename": "ClimaticBiomes-2.6.3-MC1.12.2.jar",
    "projectID": 297361,
    "required": true
@@ -440,14 +440,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2860436,
+   "fileID": 2898766,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2860437,
+   "fileID": 2898767,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -517,8 +517,8 @@
    "required": true
   },
   {
-   "desc": "industrial-craft",
-   "fileID": 2835644,
+   "desc": "Industrial Craft",
+   "fileID": 2897967,
    "projectID": 242638,
    "required": true
   },
@@ -572,18 +572,6 @@
    "required": true
   },
   {
-   "desc": "automated-redstone",
-   "fileID": 2669116,
-   "projectID": 229507,
-   "required": true
-  },
-  {
-   "desc": "CD4017BE Library",
-   "fileID": 2885783,
-   "projectID": 229208,
-   "required": true
-  },
-  {
    "desc": "RFTools Power",
    "fileID": 2704404,
    "projectID": 290209,
@@ -603,7 +591,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2888100,
+   "fileID": 2891811,
    "projectID": 313866,
    "required": true
   },
@@ -687,7 +675,7 @@
   },
   {
    "desc": "Reborn Core",
-   "fileID": 2871609,
+   "fileID": 2898260,
    "projectID": 237903,
    "required": true
   },
@@ -819,7 +807,7 @@
   },
   {
    "desc": "Corail Tombstone",
-   "fileID": 2885466,
+   "fileID": 2897060,
    "projectID": 243707,
    "required": true
   },
@@ -827,12 +815,6 @@
    "desc": "tool-belt",
    "fileID": 2811669,
    "projectID": 260262,
-   "required": true
-  },
-  {
-   "desc": "bloodmoon",
-   "fileID": 2537917,
-   "projectID": 226321,
    "required": true
   },
   {
@@ -872,8 +854,8 @@
    "required": true
   },
   {
-   "desc": "macaws-bridges",
-   "fileID": 2853493,
+   "desc": "Macaw's Bridges",
+   "fileID": 2894304,
    "projectID": 351725,
    "required": true
   },
@@ -905,6 +887,12 @@
    "desc": "slideem-all",
    "fileID": 2778779,
    "projectID": 314669,
+   "required": true
+  },
+  {
+   "desc": "redstone-control",
+   "fileID": 2885689,
+   "projectID": 319994,
    "required": true
   }
  ],
