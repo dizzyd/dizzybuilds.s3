@@ -894,6 +894,12 @@
    "fileID": 2885689,
    "projectID": 319994,
    "required": true
+  },
+  {
+   "desc": "cd4017be-library",
+   "fileID": 2885783,
+   "projectID": 229208,
+   "required": true
   }
  ],
  "manifestType": "minecraftModpack",
