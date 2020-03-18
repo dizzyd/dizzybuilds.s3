@@ -123,7 +123,7 @@
   },
   {
    "desc": "Tinkers Construct",
-   "fileID": 2877575,
+   "fileID": 2902483,
    "projectID": 74072,
    "required": true
   },
@@ -419,7 +419,7 @@
   },
   {
    "desc": "Pam's HarvestCraft",
-   "fileID": 2771840,
+   "fileID": 2904825,
    "filename": "Pams-HarvestCraft-1.12.2zb.jar",
    "projectID": 221857,
    "required": true
@@ -440,14 +440,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2898766,
+   "fileID": 2902233,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2898767,
+   "fileID": 2904521,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -461,7 +461,7 @@
   },
   {
    "desc": "Building Gadgets",
-   "fileID": 2887403,
+   "fileID": 2904659,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
    "required": true
@@ -484,7 +484,7 @@
   {
    "clientOnly": true,
    "desc": "CoroUtil",
-   "fileID": 2854078,
+   "fileID": 2902920,
    "projectID": 237749,
    "required": true
   },
@@ -518,7 +518,7 @@
   },
   {
    "desc": "Industrial Craft",
-   "fileID": 2897967,
+   "fileID": 2902679,
    "projectID": 242638,
    "required": true
   },
@@ -561,7 +561,7 @@
   },
   {
    "desc": "LagGoggles",
-   "fileID": 2821476,
+   "fileID": 2901775,
    "projectID": 283525,
    "required": true
   },
@@ -878,8 +878,8 @@
    "required": true
   },
   {
-   "desc": "industrial-renewal",
-   "fileID": 2876140,
+   "desc": "Industrial Renewal",
+   "fileID": 2904323,
    "projectID": 299849,
    "required": true
   },
@@ -899,6 +899,30 @@
    "desc": "cd4017be-library",
    "fileID": 2885783,
    "projectID": 229208,
+   "required": true
+  },
+  {
+   "desc": "emerging-technology-hydroponics",
+   "fileID": 2903747,
+   "projectID": 353447,
+   "required": true
+  },
+  {
+   "desc": "simple-sponge",
+   "fileID": 2904618,
+   "projectID": 269141,
+   "required": true
+  },
+  {
+   "desc": "double-slabs",
+   "fileID": 2904631,
+   "projectID": 350179,
+   "required": true
+  },
+  {
+   "desc": "gunpowderlib",
+   "fileID": 2852431,
+   "projectID": 356646,
    "required": true
   }
  ],
