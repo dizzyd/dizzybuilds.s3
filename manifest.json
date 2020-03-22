@@ -109,7 +109,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2853541,
+   "fileID": 2908546,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -440,14 +440,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2902233,
+   "fileID": 2908320,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2904521,
+   "fileID": 2908776,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -518,7 +518,7 @@
   },
   {
    "desc": "Industrial Craft",
-   "fileID": 2897967,
+   "fileID": 2902679,
    "projectID": 242638,
    "required": true
   },
@@ -591,7 +591,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2891811,
+   "fileID": 2908135,
    "projectID": 313866,
    "required": true
   },
@@ -807,7 +807,7 @@
   },
   {
    "desc": "Corail Tombstone",
-   "fileID": 2897060,
+   "fileID": 2904987,
    "projectID": 243707,
    "required": true
   },
@@ -879,7 +879,7 @@
   },
   {
    "desc": "Industrial Renewal",
-   "fileID": 2904323,
+   "fileID": 2905484,
    "projectID": 299849,
    "required": true
   },
@@ -902,8 +902,8 @@
    "required": true
   },
   {
-   "desc": "emerging-technology-hydroponics",
-   "fileID": 2903747,
+   "desc": "Emerging Technology",
+   "fileID": 2907007,
    "projectID": 353447,
    "required": true
   },
