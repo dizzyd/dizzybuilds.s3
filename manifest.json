@@ -11,9 +11,8 @@
    "required": true
   },
   {
-   "desc": "Forestry",
+   "desc": "forestry",
    "fileID": 2893935,
-   "filename": "forestry_1.12.2-5.8.2.382.jar",
    "projectID": 59751,
    "required": true
   },
@@ -109,7 +108,7 @@
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2908546,
+   "fileID": 2911682,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -302,7 +301,7 @@
   },
   {
    "desc": "Aroma1997Core",
-   "fileID": 2855100,
+   "fileID": 2914062,
    "filename": "Aroma1997Core-1.12.2-2.0.0.0.b162.jar",
    "projectID": 223735,
    "required": true
@@ -440,14 +439,14 @@
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2908320,
+   "fileID": 2910975,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2908776,
+   "fileID": 2910976,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -504,14 +503,14 @@
   },
   {
    "desc": "Chisel",
-   "fileID": 2813538,
+   "fileID": 2915375,
    "filename": "Chisel-MC1.12.2-0.2.1.35.jar",
    "projectID": 235279,
    "required": true
   },
   {
    "desc": "ConnectedTexturesMod",
-   "fileID": 2832564,
+   "fileID": 2915363,
    "filename": "CTM-MC1.12.2-0.3.3.22.jar",
    "projectID": 267602,
    "required": true
@@ -519,9 +518,9 @@
   {
    "desc": "Industrial Craft",
    "fileID": 2897967,
+   "locked": true,
    "projectID": 242638,
-   "required": true,
-   "locked": true
+   "required": true
   },
   {
    "desc": "Better Diving",
@@ -808,7 +807,7 @@
   },
   {
    "desc": "Corail Tombstone",
-   "fileID": 2904987,
+   "fileID": 2912064,
    "projectID": 243707,
    "required": true
   },
@@ -904,7 +903,7 @@
   },
   {
    "desc": "Emerging Technology",
-   "fileID": 2907007,
+   "fileID": 2914372,
    "projectID": 353447,
    "required": true
   },
@@ -915,8 +914,8 @@
    "required": true
   },
   {
-   "desc": "double-slabs",
-   "fileID": 2904631,
+   "desc": "Double Slabs",
+   "fileID": 2909511,
    "projectID": 350179,
    "required": true
   },
@@ -924,6 +923,24 @@
    "desc": "gunpowderlib",
    "fileID": 2852431,
    "projectID": 356646,
+   "required": true
+  },
+  {
+   "desc": "career-bees",
+   "fileID": 2534481,
+   "projectID": 281791,
+   "required": true
+  },
+  {
+   "desc": "tropicraft",
+   "fileID": 2713918,
+   "projectID": 254794,
+   "required": true
+  },
+  {
+   "desc": "gendustry",
+   "fileID": 2516215,
+   "projectID": 70492,
    "required": true
   }
  ],
