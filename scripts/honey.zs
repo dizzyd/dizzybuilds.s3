@@ -1,0 +1,1 @@
+mods.forestry.Still.addRecipe(<liquid:for.honey> * 50, <liquid:honey> * 100, 20);
