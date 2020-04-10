@@ -12,7 +12,7 @@
   },
   {
    "desc": "forestry",
-   "fileID": 2893935,
+   "fileID": 2918418,
    "projectID": 59751,
    "required": true
   },
@@ -59,35 +59,35 @@
   },
   {
    "desc": "Thermal Dynamics",
-   "fileID": 2716138,
+   "fileID": 2920505,
    "filename": "ThermalDynamics-1.12.2-2.5.3.16-universal.jar",
    "projectID": 227443,
    "required": true
   },
   {
    "desc": "Thermal Foundation",
-   "fileID": 2715788,
+   "fileID": 2920510,
    "filename": "ThermalFoundation-1.12.2-2.6.1.22-universal.jar",
    "projectID": 222880,
    "required": true
   },
   {
    "desc": "CoFH Core",
-   "fileID": 2716100,
+   "fileID": 2920433,
    "filename": "CoFHCore-1.12.2-4.6.1.22-universal.jar",
    "projectID": 69162,
    "required": true
   },
   {
-   "desc": "redstone-flux",
-   "fileID": 2623090,
+   "desc": "Redstone Flux",
+   "fileID": 2920436,
    "filename": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
    "projectID": 270789,
    "required": true
   },
   {
    "desc": "CoFH World",
-   "fileID": 2715784,
+   "fileID": 2920434,
    "filename": "CoFHWorld-1.12.2-1.3.0.6-universal.jar",
    "projectID": 271384,
    "required": true
@@ -101,14 +101,14 @@
   },
   {
    "desc": "Thermal Innovation",
-   "fileID": 2715787,
+   "fileID": 2920441,
    "filename": "ThermalInnovation-1.12.2-0.3.1.8-universal.jar",
    "projectID": 291737,
    "required": true
   },
   {
    "desc": "NuclearCraft",
-   "fileID": 2911682,
+   "fileID": 2921192,
    "filename": "NuclearCraft-2.13e--1.12.2.jar",
    "projectID": 226254,
    "required": true
@@ -148,7 +148,7 @@
   },
   {
    "desc": "Quark",
-   "fileID": 2889332,
+   "fileID": 2924091,
    "filename": "Quark-r1.5-145.jar",
    "projectID": 243121,
    "required": true
@@ -217,7 +217,7 @@
   },
   {
    "desc": "Astral Sorcery",
-   "fileID": 2872629,
+   "fileID": 2920254,
    "filename": "astralsorcery-1.12.2-1.10.10.jar",
    "projectID": 241721,
    "required": true
@@ -294,7 +294,7 @@
   },
   {
    "desc": "AromaBackup",
-   "fileID": 2870161,
+   "fileID": 2920125,
    "filename": "AromaBackup-1.12.2-3.0.0.0.b116.jar",
    "projectID": 225658,
    "required": true
@@ -363,7 +363,7 @@
   },
   {
    "desc": "ForgeEndertech",
-   "fileID": 2856114,
+   "fileID": 2924115,
    "filename": "ForgeEndertech-1.12.2-4.4.8.0-build.0249.jar",
    "projectID": 244844,
    "required": true
@@ -404,7 +404,7 @@
   },
   {
    "desc": "Inventory Tweaks",
-   "fileID": 2848933,
+   "fileID": 2923460,
    "filename": "InventoryTweaks-1.64-dev.145.jar",
    "projectID": 223094,
    "required": true
@@ -432,7 +432,7 @@
   },
   {
    "desc": "Thermal Expansion",
-   "fileID": 2715789,
+   "fileID": 2920438,
    "filename": "ThermalExpansion-1.12.2-5.5.2.39-universal.jar",
    "projectID": 69163,
    "required": true
@@ -446,7 +446,7 @@
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2910976,
+   "fileID": 2921730,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -591,7 +591,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2908135,
+   "fileID": 2920656,
    "projectID": 313866,
    "required": true
   },
@@ -614,7 +614,7 @@
    "required": true
   },
   {
-   "desc": "Shadowfacts' Forgelin",
+   "desc": "shadowfacts-forgelin",
    "fileID": 2785465,
    "projectID": 248453,
    "required": true
@@ -759,19 +759,19 @@
   },
   {
    "desc": "Integrated Dynamics",
-   "fileID": 2880446,
+   "fileID": 2921576,
    "projectID": 236307,
    "required": true
   },
   {
    "desc": "Cyclops Core",
-   "fileID": 2880441,
+   "fileID": 2920796,
    "projectID": 232758,
    "required": true
   },
   {
    "desc": "Common Capabilities",
-   "fileID": 2831253,
+   "fileID": 2920804,
    "projectID": 247007,
    "required": true
   },
@@ -782,14 +782,14 @@
    "required": true
   },
   {
-   "desc": "integrated-crafting",
-   "fileID": 2732760,
+   "desc": "Integrated Crafting",
+   "fileID": 2920821,
    "projectID": 287357,
    "required": true
   },
   {
-   "desc": "integrated-tunnels",
-   "fileID": 2732756,
+   "desc": "Integrated Tunnels",
+   "fileID": 2920817,
    "projectID": 251389,
    "required": true
   },
@@ -807,7 +807,7 @@
   },
   {
    "desc": "Corail Tombstone",
-   "fileID": 2912064,
+   "fileID": 2921044,
    "projectID": 243707,
    "required": true
   },
@@ -890,20 +890,20 @@
    "required": true
   },
   {
-   "desc": "redstone-control",
-   "fileID": 2885689,
+   "desc": "Redstone Control",
+   "fileID": 2923628,
    "projectID": 319994,
    "required": true
   },
   {
-   "desc": "cd4017be-library",
-   "fileID": 2885783,
+   "desc": "CD4017BE Library",
+   "fileID": 2923625,
    "projectID": 229208,
    "required": true
   },
   {
    "desc": "Emerging Technology",
-   "fileID": 2914372,
+   "fileID": 2923441,
    "projectID": 353447,
    "required": true
   },
@@ -915,7 +915,7 @@
   },
   {
    "desc": "Double Slabs",
-   "fileID": 2909511,
+   "fileID": 2925347,
    "projectID": 350179,
    "required": true
   },
@@ -941,6 +941,12 @@
    "desc": "gendustry",
    "fileID": 2516215,
    "projectID": 70492,
+   "required": true
+  },
+  {
+   "desc": "more-bees",
+   "fileID": 2574459,
+   "projectID": 250226,
    "required": true
   }
  ],
