@@ -107,13 +107,6 @@
    "required": true
   },
   {
-   "desc": "NuclearCraft",
-   "fileID": 2921192,
-   "filename": "NuclearCraft-2.13e--1.12.2.jar",
-   "projectID": 226254,
-   "required": true
-  },
-  {
    "desc": "tinkers-tool-leveling",
    "fileID": 2630860,
    "filename": "TinkerToolLeveling-1.12.2-1.1.0.jar",
@@ -947,6 +940,12 @@
    "desc": "more-bees",
    "fileID": 2574459,
    "projectID": 250226,
+   "required": true
+  },
+  {
+   "desc": "nuclearcraft-overhauled",
+   "fileID": 2921505,
+   "projectID": 336895,
    "required": true
   }
  ],
