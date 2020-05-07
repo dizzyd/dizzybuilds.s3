@@ -1,0 +1,18 @@
+#
+# /etc/systemd/system/minecraft.service
+#
+[Unit]
+Description=Minecraft Server
+
+[Service]
+WorkingDirectory=/root/dizzybuilds.s3
+User=root
+Type=forking
+
+ExecStart=/usr/bin/tmux new-session -s dizzybuilds -d '/bin/java -Xmx24G -XX:+UseG1GC -jar forge.jar'
+
+ExecStop=/usr/bin/tmux send-keys -t dizzybuilds:0.0 'say SERVER SHUTTING DOWN.' C-m 'stop' C-m
+ExecStop=/bin/sleep 5
+
+[Install]
+WantedBy=multi-user.target
