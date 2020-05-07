@@ -66,7 +66,7 @@
   },
   {
    "desc": "Thermal Foundation",
-   "fileID": 2920510,
+   "fileID": 2926428,
    "filename": "ThermalFoundation-1.12.2-2.6.1.22-universal.jar",
    "projectID": 222880,
    "required": true
@@ -155,7 +155,7 @@
   },
   {
    "desc": "Controlling",
-   "fileID": 2857064,
+   "fileID": 2926366,
    "filename": "Controlling-3.0.6.jar",
    "projectID": 250398,
    "required": true
@@ -259,7 +259,7 @@
   },
   {
    "desc": "Rustic",
-   "fileID": 2841018,
+   "fileID": 2946778,
    "filename": "rustic-1.0.15.jar",
    "projectID": 256141,
    "required": true
@@ -425,21 +425,21 @@
   },
   {
    "desc": "Thermal Expansion",
-   "fileID": 2920438,
+   "fileID": 2926431,
    "filename": "ThermalExpansion-1.12.2-5.5.2.39-universal.jar",
    "projectID": 69163,
    "required": true
   },
   {
    "desc": "LittleTiles",
-   "fileID": 2910975,
+   "fileID": 2948041,
    "filename": "LittleTiles_v1.5.0-pre125_mc1.12.2.jar",
    "projectID": 257818,
    "required": true
   },
   {
    "desc": "CreativeCore",
-   "fileID": 2921730,
+   "fileID": 2949170,
    "filename": "CreativeCore_v1.9.38_mc1.12.2.jar",
    "projectID": 257814,
    "required": true
@@ -453,7 +453,7 @@
   },
   {
    "desc": "Building Gadgets",
-   "fileID": 2904659,
+   "fileID": 2928313,
    "filename": "BuildingGadgets-2.5.0.jar",
    "projectID": 298187,
    "required": true
@@ -517,7 +517,7 @@
   },
   {
    "desc": "Better Diving",
-   "fileID": 2834907,
+   "fileID": 2940386,
    "projectID": 310303,
    "required": true
   },
@@ -542,7 +542,7 @@
   {
    "clientOnly": true,
    "desc": "Smooth Font",
-   "fileID": 2775709,
+   "fileID": 2949817,
    "projectID": 285742,
    "required": true
   },
@@ -554,7 +554,7 @@
   },
   {
    "desc": "LagGoggles",
-   "fileID": 2901775,
+   "fileID": 2947622,
    "projectID": 283525,
    "required": true
   },
@@ -584,7 +584,7 @@
   },
   {
    "desc": "Engineer's Decor",
-   "fileID": 2920656,
+   "fileID": 2944633,
    "projectID": 313866,
    "required": true
   },
@@ -602,7 +602,7 @@
   },
   {
    "desc": "Immersive Posts",
-   "fileID": 2861716,
+   "fileID": 2945386,
    "projectID": 314645,
    "required": true
   },
@@ -668,7 +668,7 @@
   },
   {
    "desc": "Reborn Core",
-   "fileID": 2898260,
+   "fileID": 2926584,
    "projectID": 237903,
    "required": true
   },
@@ -686,7 +686,7 @@
   },
   {
    "desc": "CraftTweaker",
-   "fileID": 2838090,
+   "fileID": 2928558,
    "projectID": 239197,
    "required": true
   },
@@ -728,7 +728,7 @@
   },
   {
    "desc": "Waterworks",
-   "fileID": 2860391,
+   "fileID": 2942595,
    "projectID": 267006,
    "required": true
   },
@@ -739,8 +739,8 @@
    "required": true
   },
   {
-   "desc": "refined-storage",
-   "fileID": 2745458,
+   "desc": "Refined Storage",
+   "fileID": 2940914,
    "projectID": 243076,
    "required": true
   },
@@ -752,13 +752,13 @@
   },
   {
    "desc": "Integrated Dynamics",
-   "fileID": 2921576,
+   "fileID": 2929963,
    "projectID": 236307,
    "required": true
   },
   {
    "desc": "Cyclops Core",
-   "fileID": 2920796,
+   "fileID": 2929967,
    "projectID": 232758,
    "required": true
   },
@@ -800,7 +800,7 @@
   },
   {
    "desc": "Corail Tombstone",
-   "fileID": 2921044,
+   "fileID": 2927858,
    "projectID": 243707,
    "required": true
   },
@@ -872,7 +872,7 @@
   },
   {
    "desc": "Industrial Renewal",
-   "fileID": 2905484,
+   "fileID": 2948231,
    "projectID": 299849,
    "required": true
   },
@@ -896,7 +896,7 @@
   },
   {
    "desc": "Emerging Technology",
-   "fileID": 2923441,
+   "fileID": 2928808,
    "projectID": 353447,
    "required": true
   },
@@ -908,7 +908,7 @@
   },
   {
    "desc": "Double Slabs",
-   "fileID": 2925347,
+   "fileID": 2939168,
    "projectID": 350179,
    "required": true
   },
@@ -943,8 +943,8 @@
    "required": true
   },
   {
-   "desc": "nuclearcraft-overhauled",
-   "fileID": 2921505,
+   "desc": "NuclearCraft: Overhauled",
+   "fileID": 2949336,
    "projectID": 336895,
    "required": true
   }
