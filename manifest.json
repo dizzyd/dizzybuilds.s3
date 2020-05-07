@@ -553,12 +553,6 @@
    "required": true
   },
   {
-   "desc": "LagGoggles",
-   "fileID": 2947622,
-   "projectID": 283525,
-   "required": true
-  },
-  {
    "desc": "Just Enough Calculation",
    "fileID": 2849567,
    "projectID": 242223,
